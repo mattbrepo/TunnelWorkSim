@@ -1,5 +1,5 @@
 # TunnelWorkSim
-A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/).
+A simulation for the construction of a tunnel using [SimPy](https://simpy.readthedocs.io/en/latest/) with a [tkinter](https://docs.python.org/3/library/tkinter.html) gui.
 
 **Language: Python**
 
